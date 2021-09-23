@@ -1,0 +1,26 @@
+@media (max-width:768px) {
+  h2.great.mt-5.pt-4{
+    font-size: 70px;
+  }
+  .bar{
+    font-size: 45px;
+  }
+  p.p-test{
+    font-size: 23px;
+  }
+
+  .hide{
+  	display: none;
+  }
+  .col-md-4.img-2.text-center {
+    height: 350px;
+}
+
+  .wel{
+  		font-size: 50px;
+  }
+  .bar{
+    font-size: 34px;
+  }
+  
+}
